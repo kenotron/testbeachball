@@ -3,6 +3,10 @@
   "version": "1.0.1",
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "change": "beachball",
+    "pub": "beachball publish -r http://localhost:4873"
+  },
   "devDependencies": {
     "beachball": "^1.10.2"
   }
