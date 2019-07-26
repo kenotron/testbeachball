@@ -2,6 +2,20 @@
   "name": "testbeachball",
   "entries": [
     {
+      "date": "Fri, 26 Jul 2019 04:28:08 GMT",
+      "tag": "testbeachball_v1.0.2",
+      "version": "1.0.2",
+      "comments": {
+        "patch": [
+          {
+            "comment": "yo",
+            "author": "kchau@microsoft.com",
+            "commit": "ba4cc525a32ccd348459c22f6e7486b30a1e6963"
+          }
+        ]
+      }
+    },
+    {
       "date": "Fri, 26 Jul 2019 03:13:46 GMT",
       "tag": "testbeachball_v1.0.1",
       "version": "1.0.1",
