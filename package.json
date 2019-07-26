@@ -1,0 +1,9 @@
+{
+  "name": "testbeachball",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "beachball": "^1.10.2"
+  }
+}

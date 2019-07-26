@@ -1,0 +1,36 @@
+Arguments: 
+  /Users/ken/.nvm/versions/node/v10.15.1/bin/node /Users/ken/.yarn/bin/yarn.js init
+
+PATH: 
+  /Users/ken/.local/bin:/Users/ken/workspace/google-cloud-sdk/bin:/Users/ken/.nvm/versions/node/v10.15.1/bin:/Users/ken/Downloads/cocos2d-x-3.17/templates:/Users/ken/Downloads:/Users/ken/Downloads/cocos2d-x-3.17/tools/cocos2d-console/bin:/Users/ken/.yarn/bin:/Users/ken/.config/yarn/global/node_modules/.bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/go/bin:/usr/local/share/dotnet:~/.dotnet/tools:/Library/Frameworks/Mono.framework/Versions/Current/Commands:/Applications/Xamarin Workbooks.app/Contents/SharedSupport/path-bin:/Users/ken/.npm-packages/bin:/Users/ken/go/bin
+
+Yarn version: 
+  1.16.0
+
+Node version: 
+  10.15.1
+
+Platform: 
+  darwin x64
+
+Trace: 
+  Error: canceled
+      at Interface.<anonymous> (/Users/ken/.yarn/lib/cli.js:125850:13)
+      at Interface.emit (events.js:189:13)
+      at Interface._ttyWrite (readline.js:783:16)
+      at ReadStream.onkeypress (readline.js:168:10)
+      at ReadStream.emit (events.js:189:13)
+      at emitKeys (internal/readline.js:424:14)
+      at emitKeys.next (<anonymous>)
+      at ReadStream.onData (readline.js:1022:36)
+      at ReadStream.emit (events.js:189:13)
+      at addChunk (_stream_readable.js:284:12)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
